@@ -1,0 +1,10 @@
+python-dotenv
+gradio
+langchain
+langchain-core
+langchain-community
+numpy
+scikit-learn
+plotly
+faiss-cpu
+chromadb
